@@ -20,3 +20,40 @@
 
 .env file in the root
 FAST_REFRESH=FALSE
+
+#### code
+
+https://github.com/john-smilga/react-course-comfy-store-project-recording/tree/main/src
+
+###
+
+We can add className to return Styled divs
+
+Ex: const CartButtons = () => {
+return <Wrapper className="cart-btn-wrapper"></Wrapper>;
+}
+
+"cart-btn-wrapper" className is from Navbar Component
+
+value has double braces because, first is to write javascript and second is to write object code
+
+return (
+<ProductsContext.Provider value={{}}>
+{children}
+</ProductsContext.Provider>
+);
+
+####
+
+check for Formspree
+
+saitejagatadi007@gmail.com
+12345
+
+####
+
+Click on New Form button
+
+###
+
+filtered_products is a copy that we have created from products
