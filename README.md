@@ -47,8 +47,6 @@ return (
 
 check for Formspree
 
-saitejagatadi007@gmail.com
-12345
 
 ####
 
